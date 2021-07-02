@@ -2,8 +2,6 @@ import './StyleColor.css'
 import React, { Component } from 'react'
 
 const StyleColor = class extends Component {
-
-    cons
     dte = new Date();
 
     value = this.dte.toISOString();

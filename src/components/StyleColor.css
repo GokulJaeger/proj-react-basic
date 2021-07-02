@@ -3,6 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    column-count: 2;
   }
   
   *, *::before, *::after {
@@ -25,7 +26,7 @@ body {
     z-index: 0;
     width: 400px;
     height: 300px;
-    border-radius: 10px;
+    border-radius: 5px;
     overflow: hidden;
     padding: 2rem;
   }
